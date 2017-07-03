@@ -1,0 +1,31 @@
+body {
+  font-family: verdana;
+  text-align: center;
+  color:white;
+  background-color:black;
+}
+
+.link{
+  color: Aquamarine;
+  font-size: 16;
+}
+
+#bottom {
+  text-align:right;
+  color:grey;
+}
+
+.middle {
+  font-size: 21;
+  color:grey;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 50;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42;
+}
